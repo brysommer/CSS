@@ -1,0 +1,10 @@
+div {
+    color:rgb(178, 118, 44);
+    font-size: 22px;
+}
+
+.bold {
+    color: #0f0;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
